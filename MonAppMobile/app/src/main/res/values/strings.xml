@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MonAppMobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="sa_marche">Sa marche</string>
+    <string name="hello_mya">Hello Mya!</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="mya">MYA</string>
+    <string name="input">input</string>
+</resources>
